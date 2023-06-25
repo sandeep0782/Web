@@ -1,0 +1,1 @@
+USERROLE = ((1, 'SUPPLIER'), (2, 'BUYER'), (3, 'GMT VENDOR'), (4, 'RM'), (5, 'RM_ADMIN'), (6, 'PD'),  (7, 'PD_ADMIN'),  (8, 'VENDOR WITH GARMENTING'),  (9, 'Calender_Admin'),  (10, 'Planning'),  (11, 'Design'),  (11, 'Sourcing'),  (12, 'Tech'),  (13, 'Operations'),  (14, 'Finance'))
